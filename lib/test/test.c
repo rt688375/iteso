@@ -1,1 +1,5 @@
-//test.cint test(void){        return 0;}
+//test.c
+int test(void){
+        //modificacion
+        return 0;
+}
