@@ -1,8 +1,10 @@
 //hola.c
 
 #include <stdio.h>
+#include "test/test.h"
 
 void main(void) {
+	test();
 	printf("Hola Mundo\n");
 }
 
